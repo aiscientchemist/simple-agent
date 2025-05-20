@@ -2,9 +2,7 @@ InsightAgent => AI-Powered Data Analysis
 
 IndatsightAgent is a Python-based AI system designed to fetch a from GitHub and Reddit, process it, and leverage a local Hugging Face Language Model  to answer user queries about trends and insights within that data.
 
-Objective
 
-To build a simplified, yet functional AI system that analyzes data and responds to user queries using language models (LLMs) and machine learning techniques. The system can run locally.
 
 Features
 
